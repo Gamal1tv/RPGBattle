@@ -1,0 +1,12 @@
+C:\Users\Grant\Visual Studio Assets\RPG BATTLE\RPG BATTLE\bin\Debug\RPG BATTLE.exe.config
+C:\Users\Grant\Visual Studio Assets\RPG BATTLE\RPG BATTLE\bin\Debug\RPG BATTLE.exe
+C:\Users\Grant\Visual Studio Assets\RPG BATTLE\RPG BATTLE\bin\Debug\RPG BATTLE.pdb
+C:\Users\Grant\Visual Studio Assets\RPG BATTLE\RPG BATTLE\obj\Debug\RPG BATTLE.csproj.AssemblyReference.cache
+C:\Users\Grant\Visual Studio Assets\RPG BATTLE\RPG BATTLE\obj\Debug\RPG BATTLE.csproj.SuggestedBindingRedirects.cache
+C:\Users\Grant\Visual Studio Assets\RPG BATTLE\RPG BATTLE\obj\Debug\RPG_BATTLE.Properties.Resources.resources
+C:\Users\Grant\Visual Studio Assets\RPG BATTLE\RPG BATTLE\obj\Debug\RPG BATTLE.csproj.GenerateResource.cache
+C:\Users\Grant\Visual Studio Assets\RPG BATTLE\RPG BATTLE\obj\Debug\RPG BATTLE.csproj.CoreCompileInputs.cache
+C:\Users\Grant\Visual Studio Assets\RPG BATTLE\RPG BATTLE\obj\Debug\RPG BATTLE.exe
+C:\Users\Grant\Visual Studio Assets\RPG BATTLE\RPG BATTLE\obj\Debug\RPG BATTLE.pdb
+C:\Users\Grant\Visual Studio Assets\RPG BATTLE\RPG BATTLE\obj\Debug\RPG_BATTLE.RPG.resources
+C:\Users\Grant\Visual Studio Assets\RPG BATTLE\RPG BATTLE\obj\Debug\RPG_BATTLE.Battle.resources
